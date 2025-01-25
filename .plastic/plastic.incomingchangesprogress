@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      22
+    ],
+    "SourceCsetId": 41,
+    "DestinationCsetId": 22,
+    "FileConflicts": [
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 156,
+        "ParentItemId": 136,
+        "BaseRevId": 666,
+        "SourceRevId": 1873,
+        "DestinationRevId": 666
+      },
+      {
+        "Path": "/Assets/XR/Settings/OpenXR Package Settings.asset",
+        "ItemId": 641,
+        "ParentItemId": 505,
+        "BaseRevId": 371,
+        "SourceRevId": 1871,
+        "DestinationRevId": 371
+      }
+    ]
+  }
+]
